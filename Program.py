@@ -1,9 +1,5 @@
 #pip install google-api-python-client
 #pip install google_auth_oauthlib
-from collections import OrderedDict
-import datetime
-from os import path, walk, sep
-
 from CustomisedYoutubeService import CustomisedYoutubeService
 from CustomisedDatabase import CustomisedDatabase
 from CustomisedAudioRecording import CustomisedAudioRecording
